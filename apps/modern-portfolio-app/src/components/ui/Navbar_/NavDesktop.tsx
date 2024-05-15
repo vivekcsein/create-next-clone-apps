@@ -8,8 +8,8 @@ type NavDesktopProps = {
 };
 const NavDesktop = ({ navHandlerFun }: NavDesktopProps) => {
   return (
-    <div className="h-nav bg-bgc shadow-md ">
-      <div className=" w-[85%] flex items-center justify-between mx-auto h-nav ">
+    <div className="h-nav bg-bgc shadow-md">
+      <div className=" w-[85%] flex items-center justify-between mx-auto h-nav  ">
         <Link href="/">
           <h1 className="text-16 md:text-25 font-bold text-white ">
             <span className="text-27 md:text-40 text-primary">MO</span>

@@ -27,7 +27,7 @@ const config: Config = {
         lg: "92vh",
         md: "80vh",
         sm: "75vh",
-        vh: "70vh"
+        vh: "70vh",
       },
       fontSize: {
         16: "16px",
@@ -36,8 +36,8 @@ const config: Config = {
         25: "25px",
         27: "27px",
         30: "30px",
-        40: "40px"
-      }
+        40: "40px",
+      },
     },
   },
   plugins: [],

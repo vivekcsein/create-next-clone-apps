@@ -9,10 +9,10 @@ const NavResponsive = () => {
 
   return (
     <>
-      <div className="z-0">
+      <div className="">
         <NavMobile isOpen={showNav} />
       </div>
-      <div className="z-10">
+      <div className="">
         <NavDesktop navHandlerFun={NavHandler} />
       </div>
     </>
